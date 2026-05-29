@@ -14,17 +14,19 @@
 
 ## 🧠 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ```python
 class SanthosKumar:
     def __init__(self):
-        self.name        = "Santhos Kumar S"
-        self.location    = "Chennai, Tamil Nadu, India 🇮🇳"
-        self.degree      = "M.Tech Integrated Software Engineering"
-        self.college     = "VIT Chennai | CGPA: 7.98"
-        self.github      = "santhos29"
-        self.email       = "ssanthoskumar29@gmail.com"
+        self.name     = "Santhos Kumar S"
+        self.location = "Chennai, Tamil Nadu, India 🇮🇳"
+        self.degree   = "M.Tech Integrated S/W Engineering"
+        self.college  = "VIT Chennai  |  CGPA: 7.98"
+        self.github   = "santhos29"
+        self.email    = "ssanthoskumar29@gmail.com"
 
         self.stack = [
             "Python", "PyTorch", "TensorFlow",
@@ -46,13 +48,18 @@ class SanthosKumar:
         )
 
     def motto(self):
-        return "Build systems that learn, adapt, and scale. 🚀"
+        return "Build systems that learn, adapt & scale 🚀"
 
 me = SanthosKumar()
 print(me.motto())
 ```
 
-<br clear="right"/>
+</td>
+<td valign="middle" align="center" width="40%">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="coding gif" style="border-radius:12px"/>
+</td>
+</tr>
+</table>
 
 ---
 
